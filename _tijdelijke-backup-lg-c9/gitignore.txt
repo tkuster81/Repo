@@ -1,0 +1,8 @@
+# Niets om te bouwen in deze repo — dit is documentatie.
+# Houd gevoelige dingen eruit:
+*.key
+*.pem
+id_rsa*
+secrets*
+.env
+.DS_Store
